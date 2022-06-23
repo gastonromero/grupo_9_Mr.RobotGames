@@ -41,5 +41,6 @@ esta es nuestra estrategia vender algo Qué sea duradero a buen precio y sobreto
 - [Instant gaming](https://www.instant-gaming.com/)
 - [Psc-nqn](http://psc-nqn.com.ar/)
 - [Steam](https://store.steampowered.com/)
+- [dix](https://dixgamer.com/)
 
 Tomamos como referencia estas páginas porque nos gustó su diseño y algunas de sus funcionalidades.
