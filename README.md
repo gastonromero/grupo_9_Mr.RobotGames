@@ -47,8 +47,8 @@ Tomamos como referencia estas páginas porque nos gustó su diseño y algunas de
 
 ### Wireframes
 
-- [Home](https://github.com/gastonromero/grupo_9_Mr.RobotGames/tree/master/design/Wireframe/Escritorio/home-desktop)
-- [Detalle del producto](https://github.com/gastonromero/grupo_9_Mr.RobotGames/tree/master/design/Wireframe/Escritorio/detalle-desktop)
-- [Carrito de compras](https://github.com/gastonromero/grupo_9_Mr.RobotGames/tree/master/design/Wireframe/Escritorio/carrito-desktop)
-- [Formulario de registro](https://github.com/gastonromero/grupo_9_Mr.RobotGames/tree/master/design/Wireframe/Escritorio/registro-desktop)
-- [Formulario de login](https://github.com/gastonromero/grupo_9_Mr.RobotGames/tree/master/design/Wireframe/Escritorio/login-desktop)
+- [Home](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/home-desktop/home-desktop.png)
+- [Detalle del producto](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/detalle-desktop/detalle-desktop.png)
+- [Carrito de compras](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/carrito-desktop/carrito-desktop.png)
+- [Formulario de registro](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/registro-desktop/registro-desktop.png)
+- [Formulario de login](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/login-desktop/login-desktop.png)
