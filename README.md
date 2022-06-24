@@ -44,3 +44,5 @@ esta es nuestra estrategia vender algo Qué sea duradero a buen precio y sobreto
 - [dix](https://dixgamer.com/)
 
 Tomamos como referencia estas páginas porque nos gustó su diseño y algunas de sus funcionalidades.
+
+### Wireframes
