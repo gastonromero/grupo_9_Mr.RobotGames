@@ -52,3 +52,19 @@ Tomamos como referencia estas páginas porque nos gustó su diseño y algunas de
 - [Carrito de compras](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/carrito-desktop/carrito-desktop.png)
 - [Formulario de registro](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/registro-desktop/registro-desktop.png)
 - [Formulario de login](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/design/Wireframe/Escritorio/login-desktop/login-desktop.png)
+
+### Logo, colores y fuentes
+
+- [Logo](https://github.com/gastonromero/grupo_9_Mr.RobotGames/blob/master/mrRobot.png)
+
+- Fuentes:
+    - Saira Stencil One
+    - Inter
+    - SEGA LOGO FONT
+
+- Colores:
+    - ![C15AEC]
+    - ![D9D9D9]
+    - ![F8F8F8]
+    - ![88AEF4]
+    - ![280E36]
