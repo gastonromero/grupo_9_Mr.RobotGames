@@ -63,8 +63,8 @@ Tomamos como referencia estas páginas porque nos gustó su diseño y algunas de
     - SEGA LOGO FONT
 
 - Colores:
-    - ![#C15AEC]
-    - ![#D9D9D9]
-    - ![#F8F8F8]
-    - ![#88AEF4]
-    - ![#280E36]
+    - [#C15AEC]
+    - [#D9D9D9]
+    - [#F8F8F8]
+    - [#88AEF4]
+    - [#280E36]
