@@ -1,0 +1,23 @@
+{
+  "name": "grupo_9_mr.robotgames",
+  "version": "1.0.0",
+  "description": "![mr.robot](/mrRobot.png)\r ## Integrantes\r ### Romero, Gastón\r * 28 años\r * Técnico en administración y estudiante de la tecnicatura en programación informática en la Universidad Nacional De Quilmes, actualmente cursando desarrollo web full-stack en Digital House.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonromero/grupo_9_Mr.RobotGames.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonromero/grupo_9_Mr.RobotGames/issues"
+  },
+  "homepage": "https://github.com/gastonromero/grupo_9_Mr.RobotGames#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
