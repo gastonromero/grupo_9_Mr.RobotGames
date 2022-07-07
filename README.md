@@ -1,5 +1,5 @@
 # Mr. Robot Games
-![mr.robot](/mrRobot.png)
+![mr.robot](/public/img/mrRobot.png)
 ## Integrantes
 ### Romero, Gastón
 * 28 años
